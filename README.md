@@ -21,8 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h1>
-  <a>See my Portfolio </a>
-  See my Portfolio 
+  See my Portfolio
   <a href="https://jimmuguna.netlify.app/">Here....</a>
 </h1>
 
@@ -33,11 +32,11 @@
 </div>
 <hr />
  :man_technologist: About Me :
- I am a Full Stack Developer from Nakuru-Kenya.
+ I am a Full Stack Developer from Kenya.
  
  - :telescope: I’m a software developer talented at transforming software requirements into testable engineering plans maintaining high quality from conception through distribution.
 
-- :seedling: Currently exploring Django.
+- :seedling: Currently exploring Django and Flutter.
 
 - :zap: When Im not writing code, I read books and tech articles.
 
